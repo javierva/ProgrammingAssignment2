@@ -1,4 +1,4 @@
-## This set of fucntions allow the calculation of the inverse of a matrix and store in cache.
+## This set of fucntions allows the calculation of the inverse of a matrix and store in cache.
 
 
 
